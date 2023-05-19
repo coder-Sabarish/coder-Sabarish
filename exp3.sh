@@ -14,3 +14,5 @@ echo "current path"
 pwd
 echo "current no of users logged in"
 users | wc -w
+
+fsearfawerfaewfraefr
